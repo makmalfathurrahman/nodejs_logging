@@ -1,0 +1,7 @@
+{"level":"error","message":"Hello from Error","ms":"+0ms","timestamp":"2024-01-30T02:09:51.531Z"}
+{"level":"error","message":"Hello from Error","ms":"+3ms","timestamp":"2024-01-30T02:09:51.535Z"}
+{"level":"error","message":"Hello from Error","ms":"+1ms","timestamp":"2024-01-30T02:09:51.536Z"}
+{"level":"info","message":"Hello from Info","ms":"+1ms","timestamp":"2024-01-30T02:09:51.537Z"}
+{"level":"info","message":"Hello from Info","ms":"+1ms","timestamp":"2024-01-30T02:09:51.538Z"}
+{"level":"info","message":"Hello from Info","ms":"+1ms","timestamp":"2024-01-30T02:09:51.539Z"}
+{"level":"info","message":"Hello from Info","ms":"+1ms","timestamp":"2024-01-30T02:09:51.540Z"}
